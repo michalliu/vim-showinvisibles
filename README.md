@@ -24,3 +24,8 @@ Contributors
 1. [Steve Hall](http://vim.sourceforge.net/scripts/script.php?script_id=363) the original plugin author
 
 2. [Arkanosis](https://groups.google.com/forum/?fromgroups=#!topic/vim_dev/dIQHjW1g92s) the patch author
+
+TODO
+====
+
+Patch on documentation only have chinese version currently
